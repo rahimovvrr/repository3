@@ -442,3 +442,41 @@ z-index: 2;
     right: 660px;
     top: 70px;
 }
+.container2{
+    height: 660px;
+}
+.container3{
+    height: 326px;
+    background-color: #FFB737;
+}
+.div20{
+    display: flex;
+  
+    padding-left: 134px;
+}
+.img28{
+    width: 247px;
+    height: 495px;
+    position: relative;
+    bottom: 50px;
+    z-index: 3;
+}
+.img29{
+    width: 213px;
+    height: 429px;
+    position: relative;
+    bottom: 15px;
+    right: 65px;
+    z-index: 2;
+}
+.h25{
+    font-size: 40px;
+    font-weight: 700;
+    color: white;
+    padding-top: 43px;
+    padding-bottom: 42px;
+}
+.img30{
+    width: 310px;
+    height: 40px;
+}
